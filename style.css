@@ -1,0 +1,18 @@
+body{
+    background-color: #312c51;
+    text-align: center;
+}
+
+.text{
+    color:#f0c38e;
+    font-size: 1.5em;
+    
+}
+
+#mycanvas{
+    
+    background-image: url(board.jpg);
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+}
